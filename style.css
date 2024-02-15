@@ -11,7 +11,7 @@ p {
     font-size: 8px;
     line-height: 8px;
     text-align: justify; /* Corrected typo */
-    background: url('us.png') no-repeat center/cover; /* Updated background properties */
+    background: url('received_1204682207154948.jpeg') no-repeat center/cover; /* Updated background properties */
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 1); /* Corrected rgba format */
 }
