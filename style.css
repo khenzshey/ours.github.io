@@ -15,10 +15,10 @@ section{
 
 p{
     position: relative;
-    font: 1.5em;
+    font-size: 10px;
     letter-spacing: -0.05em;
     line-height: 0.7em;
-    background: url(us.png);
+    background: url(us.png) no-repeat;
     background-blend-mode: color-dodge;
     background-position: center;
     background-attachment: fixed;
